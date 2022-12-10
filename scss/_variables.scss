@@ -76,10 +76,10 @@ $danger:        $red !default;
 $light:         $gray-100 !default;
 $dark:          $gray-900 !default;
 $fish:          aqua !default;
-$nastaran-1:          #F56EB3 !default;
-$nastaran-2:          #CB1C8D !default;
-$nastaran-3:          #7F167F !default;
-$nastaran-4:          #460C68 !default;
+$nastaran-1:          #FAF8F1 !default;
+$nastaran-2:          #FAEAB1 !default;
+$nastaran-3:          #E5BA73 !default;
+$nastaran-4:          #C58940 !default;
 
 $moon:          rgb(162, 0, 255)!default;
 // scss-docs-end theme-color-variables
@@ -1098,7 +1098,7 @@ $card-spacer-x:                     $spacer !default;
 $card-title-spacer-y:               $spacer * .5 !default;
 $card-border-width:                 $border-width !default;
 $card-border-radius:                $border-radius !default;
-$card-border-color:                 rgba($nastaran-2, 0.5) !default;
+$card-border-color:                 rgba($nastaran-4, 0.5) !default;
 $card-inner-border-radius:          subtract($card-border-radius, $card-border-width) !default;
 $card-cap-padding-y:                $card-spacer-y * .5 !default;
 $card-cap-padding-x:                $card-spacer-x !default;
